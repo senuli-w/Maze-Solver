@@ -12,4 +12,4 @@
     <li><strong>Technology stack:</strong> Java.</li>
 </ul>
 
-<p>This project is a great example of algorithmic problem-solving and is ideal for those interested in pathfinding and artificial intelligence concepts.</p>
+<p>This project is a great example of algorithmic problem-solving and is ideal for pathfinding and artificial intelligence concepts.</p>
